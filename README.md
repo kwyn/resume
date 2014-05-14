@@ -2,32 +2,40 @@
 ###_aka HarleyKwyn_
 <div class="contact_info" markdown="1">
 
-[harleykwyn@gmail.com](harleykwyn@gmail.com) |[harleykwyn.com](http://harleykwyn.com) | (408) 621-2997  
+[kwyn.meagher@gmail.com](kwyn.meagher@gmail.com) |[harleykwyn.com](http://harleykwyn.com) | (408) 621-2997  
 [github.com/harleykwyn](http://github.com/HarleyKwyn)  | [linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn)
 </div>
 
-##Technical Skills {#technical_skill}
+##Technical Skills
 
 __Expert__ : JavaScript, CoffeeScript, Git, Angular.js, Express.js, Node.js
 
-__Experienced__ : Python, jQuery, Backbone.js, scikit-learn, scikit-image, Markdown, D3.js, Bash
+__Experienced__ :Python, jQuery, Backbone.js, scikit-learn, scikit-image, Markdown, D3.js, Bash
 
 __Basic__ : Hadoop, Mahout, Java, C++, Labview, MATLAB, awk  
 
-##Relevant Experience {#relevant_experience}
+##Relevant Experience
+
+###[20.48](http://harleykwyn.com/20.48/)
+>2014
+
+ - Learned [Famo.us](https://famo.us/) in one week with limited documentation
+ - Ported the 2048 JavaScript engine into Famo.us in the same week
+ - Built 3D visualizations for enhanced user experience
 
 ###[JS Visualizer]()
 >2014
 
-  - Detailed understanding of JavaScript required to build visualization of JavaScript interpreter internals.
-  - Re-factored prototype code to a successful modularized architecture in Angular.
-  - CSS transitions for animating visualization.
+  - Mastery of JavaScript required to build visualization of JavaScript interpreter internals.
+  - Re-factored prototype code for a successful modularized architecture in Angular.
+  - Lead designer for site interface.
+  - Integrated with github gist API
 
 ###[GalaxyZoo Kaggle Machine Learning Competition](http://galaxyquest.herokuapp.com/)
 >2014
 
- - Primary Distributed computing engineer with Hadoop, Mahout, OpenCL and Python
- - Designed machine learning work flow in Python using scikit-learn and scikit-image and addressed memory usage issues for large data sets.
+ - Primary Distributed computing engineer with Hadoop, Mahout and Python
+ - Designed machine learning workflow in Python using scikit-learn and scikit-image and addressed memory usage issues for large data sets.
  - Placed 65th out of 210 competitors as of 03.02.2014 beating out university teams.
 
 ###[Suffixer](http://harleykwyn.com/suffixer/)
@@ -58,7 +66,7 @@ __Terrestrial Drone Engineer__
 
  - Utilized arduino’s servo  interface successfully without documentation with Java interface.
 
-##Other Experience {#other_experience}
+##Other Experience
 
 __Physics and Materials Science Teaching Assistantship__
 >2013  
@@ -81,7 +89,7 @@ __Laser Research__
 
 Collaborated with a colleague to created a prototype of an experimental fiber optics based pulse laser.
 
-##Education {#education}
+##Education
 
 __Software Engineering__ Hack Reactor
 >Completed April 2014 
@@ -95,7 +103,7 @@ __B.S. Materials Science and Engineering__ University of California, Merced
 
 Java, C++, Statistics. Multiple academic award recipient.
 
-##Personal Interest {#personal_interests}
+##Personal Interest
 
   I have a high degree of self-awareness and enjoy hiking, mediation, Olympic lifting, nootropics, quantified self, clean eating, coffee, and grass-fed butter. I love disruptive technologies and businesses, I'm an early adopter of Coin and I have a Ripple wallet.
 
