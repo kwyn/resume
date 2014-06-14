@@ -3,8 +3,8 @@
 <div class="contact_info" markdown="1">
 
 [harleykwyn.com](http://harleykwyn.com) | [github.com/harleykwyn](http://github.com/HarleyKwyn)  
-[linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn)  
-[kwyn.meagher@gmail.com](kwyn.meagher@gmail.com) 408.621.2997
+[linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn) | [kwyn.meagher@gmail.com](kwyn.meagher@gmail.com)  
+408.621.2997
 </div>
 
 ##Technical Skills
@@ -94,6 +94,11 @@ __Laser Research__
 Collaborated with a colleague to created a prototype of an experimental fiber optics based pulse laser.
 
 ##Education
+
+__Software Engineering__ Hacker in Residence Program
+>Completed July 2014
+
+Hack Reactor's selective paid graduate program
 
 __Software Engineering__ Hack Reactor
 >Completed April 2014 
