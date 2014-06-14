@@ -8,27 +8,41 @@
 
 ##Technical Skills
 
-__Expert__ : JavaScript, CoffeeScript, Git, Angular.js, Express.js, Node.js
+__Expert__ : JavaScript, CoffeeScript, Git, Angular.js, Express.js, Node.js, CoreOS, Docker
 
-__Experienced__ :Python, jQuery, Backbone.js, scikit-learn, scikit-image, Markdown, D3.js, Bash
+__Experienced__ :Python, Flask, scikit-learn, scikit-image, D3.js, Famo.us, jQuery, Backbone.js, Markdown, Bash
 
 __Basic__ : Hadoop, Mahout, Java, C++, Labview, MATLAB, awk  
 
 ##Relevant Experience
 
-###[20.48](http://harleykwyn.com/20.48/)
+###Node.js - TCP/IP bridge server for Live Poker Gaming
+>2014
+
+ - Built Node.js server to bridge HTML5, and iPhone client to communicat via JSON to TCP/IP server
+ - Using socket.io for speed and reliability per client specification. 
+ - Implimented end points for Facebook Oauth and various payment systems i.e. paypal, venom, stipe.
+
+###[Semanitc Similarity as a Service](https://github.com/HarleyKwyn/sklearn)
+>2014
+
+ - Built in Python, Flask, Scikit-learn and Docker
+ - Architected and constructed RESTful API for Semantic Similarity
+ - Solved problems with persistance and lazy loading of searches for large corpuses.
+
+###[20.48 (Rebuilt 2048 in Famo.us)](http://harleykwyn.com/20.48/)
 >2014
 
  - Learned [Famo.us](https://famo.us/) in one week with limited documentation
  - Ported the 2048 JavaScript engine into Famo.us in the same week
  - Built 3D visualizations for enhanced user experience
 
-###[JS Visualizer]()
+###JS Visualizer
 >2014
 
   - Mastery of JavaScript required to build visualization of JavaScript interpreter internals.
-  - Re-factored prototype code for a successful modularized architecture in Angular.
-  - Lead designer for site interface.
+  - Re-factored prototype code to a modularized architecture in Angular.
+  - Lead for site design and interface.
   - Integrated with github gist API
 
 ###[GalaxyZoo Kaggle Machine Learning Competition](http://galaxyquest.herokuapp.com/)
