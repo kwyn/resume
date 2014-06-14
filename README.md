@@ -2,17 +2,18 @@
 ###_aka HarleyKwyn_
 <div class="contact_info" markdown="1">
 
-[kwyn.meagher@gmail.com](kwyn.meagher@gmail.com) |[harleykwyn.com](http://harleykwyn.com) | (408) 621-2997  
-[github.com/harleykwyn](http://github.com/HarleyKwyn)  | [linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn)
+[harleykwyn.com](http://harleykwyn.com) | [github.com/harleykwyn](http://github.com/HarleyKwyn)  
+[linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn)  
+[kwyn.meagher@gmail.com](kwyn.meagher@gmail.com) 408.621.2997
 </div>
 
 ##Technical Skills
 
-__Expert__ : JavaScript, CoffeeScript, Git, Angular.js, Express.js, Node.js, CoreOS, Docker
+__Expert__ :  JavaScript, CoffeeScript, Git, Angular.js, Express.js, Node.js, CoreOS, Docker  
 
-__Experienced__ :Python, Flask, scikit-learn, scikit-image, D3.js, Famo.us, jQuery, Backbone.js, Markdown, Bash
+__Experienced__ :  Python, Flask, scikit-learn, scikit-image, D3.js, Famo.us, jQuery, Backbone.js, Markdown, Bash  
 
-__Basic__ : Hadoop, Mahout, Java, C++, Labview, MATLAB, awk  
+__Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk  
 
 ##Relevant Experience
 
@@ -21,9 +22,9 @@ __Basic__ : Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 
  - Built Node.js server to bridge HTML5, and iPhone client to communicat via JSON to TCP/IP server
  - Using socket.io for speed and reliability per client specification. 
- - Implimented end points for Facebook Oauth and various payment systems i.e. paypal, venom, stipe.
+ - Implimented end points for Facebook Oauth and various payment systems i.e. paypal, venmo, stripe.
 
-###[Semanitc Similarity as a Service](https://github.com/HarleyKwyn/sklearn)
+###[Semantic Similarity as a Service](https://github.com/HarleyKwyn/sklearn)
 >2014
 
  - Built in Python, Flask, Scikit-learn and Docker
@@ -33,30 +34,23 @@ __Basic__ : Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 ###[20.48 (Rebuilt 2048 in Famo.us)](http://harleykwyn.com/20.48/)
 >2014
 
- - Learned [Famo.us](https://famo.us/) in one week with limited documentation
+ - Learned [Famo.us](https://famo.us) in one week with limited documentation
  - Ported the 2048 JavaScript engine into Famo.us in the same week
  - Built 3D visualizations for enhanced user experience
 
-###JS Visualizer
+###Visualizer Interpreter
 >2014
 
-  - Mastery of JavaScript required to build visualization of JavaScript interpreter internals.
   - Re-factored prototype code to a modularized architecture in Angular.
+  - Mastery of JavaScript required to build visualization of JavaScript interpreter internals.
   - Lead for site design and interface.
-  - Integrated with github gist API
 
 ###[GalaxyZoo Kaggle Machine Learning Competition](http://galaxyquest.herokuapp.com/)
 >2014
 
- - Primary Distributed computing engineer with Hadoop, Mahout and Python
+ - Primary distributed computing engineer with Hadoop, Mahout and Python
  - Designed machine learning workflow in Python using scikit-learn and scikit-image and addressed memory usage issues for large data sets.
  - Placed 65th out of 210 competitors as of 03.02.2014 beating out university teams.
-
-###[Suffixer](http://harleykwyn.com/suffixer/)
->2014
-
- - Constructed tool to generate for top level domain names using CoffeeScript, Node, and Angular
- - Successfully designed permutation algorithms for vowel and phoneme replacement that logically manages efficiency for longer words.
 
 ###[University of California, Merced](http://www.ucmerced.edu/)
 
@@ -68,7 +62,7 @@ __Java Computer Science Tutor__
 __Nano-materials Modeling Engineer__ 
 >2010 - 2011  
 
- - Designed and implemented algorithm to generate data for silica nano-springs from a bulk data text file using awk, a program inherently unsuited for the task.  
+ - Designed and implemented algorithm to generate data for silica nano-springs from a bulk data text file using [AWK](http://en.wikipedia.org/wiki/AWK)
 
 __Student Computer Lab Technician__ 
 >2008 - 2011  
@@ -86,10 +80,6 @@ __Physics and Materials Science Teaching Assistantship__
 >2013  
 
 Cultivated understanding of Physics through real world examples using wolfram-alpha  
-__Capstone Design Project__ 
->2013  
-
-Designed mechanical testing methods for nonstandard organic samples collected and presented analysis of data.  
 __Center of Integrated Nano-mechanical Systems REU__ 
 >2012
 
