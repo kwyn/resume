@@ -76,6 +76,11 @@ __Terrestrial Drone Engineer__
 
 ##Other Experience
 
+__Mission Bit Technical Mentor__
+>2014
+
+Mentored interns at Hack Reactor teaching JavaScript, Firebase and Angular best practices
+
 __Physics and Materials Science Teaching Assistantship__
 >2013  
 
