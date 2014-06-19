@@ -16,34 +16,30 @@ __Experienced__ :  Python, Flask, scikit-learn, scikit-image, D3.js, Famo.us, jQ
 __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk  
 
 ##Relevant Experience
+###Visualizer Interpreter
+>2014
+
+  - Engineered visualizations for instantaneous scope and variable based on an open source JavaScript interpreter
+  - Designed an intuitive and user friendly interface for a complex on-line debugging repl  
+  - Re-factored prototype code to a modularized architecture in Angular to allow for continued development 
 
 ###Node.js - TCP/IP bridge server for Live Poker Gaming
 >2014
 
- - Built Node.js server to bridge HTML5, and iPhone client to communicate via JSON to TCP/IP server
- - Using socket.io for speed and reliability per client specification 
- - Implemented end points for Facebook Oauth and various payment systems i.e. paypal, venmo, stripe
+ - Built Node.js server, to handle real time gaming communication via JSON based client to a TCP/IP based server 
+ - Implemented end points for Facebook Oauth and various payment systems i.e. PayPal, Venmo, Stripe
 
 ###[Semantic Similarity as a Service](https://github.com/HarleyKwyn/sklearn)
 >2014
 
- - Built in Python, Flask, Scikit-learn and Docker
- - Architected and constructed RESTful API for Semantic Similarity
- - Solved problems with persistence and lazy loading of searches for large corpuses
+ - Architected and constructed RESTful API for to make custom search engines based on Semantic Similarity  
+ - Solved problems with persistence and lazy loading of searches for large databases using CoreOS and Docker 
 
-###[20.48 (Rebuilt 2048 in Famo.us)](http://harleykwyn.com/20.48/)
+###[20.48 (2048 Rebuilt in Famo.us)](http://harleykwyn.com/20.48/)
 >2014
 
- - Learned [Famo.us](https://famo.us) in one week with limited documentation
- - Ported the 2048 JavaScript engine into Famo.us in the same week
- - Built 3D visualizations for enhanced user experience
-
-###Visualizer Interpreter
->2014
-
-  - Re-factored prototype code to a modularized architecture in Angular
-  - Mastery of JavaScript required to build visualization of JavaScript interpreter internals
-  - Lead for site design and interface
+ - Built complex 3D animations for enriched user experience, leveraging the Famo.us framework
+ - Learned [Famo.us](https://famo.us) and ported the 2048 JavaScript engine to the framework in one week with limited documentation
 
 ###[GalaxyZoo Kaggle Machine Learning Competition](http://galaxyquest.herokuapp.com/)
 >2014
@@ -64,58 +60,29 @@ __Nano-materials Modeling Engineer__
 
  - Designed and implemented algorithm to generate data for silica nano-springs from a bulk data text file using [AWK](http://en.wikipedia.org/wiki/AWK)
 
-__Student Computer Lab Technician__ 
->2008 - 2011  
-
- - Managed and maintained 60 computers and trained users on basic operations in Windows, Mac or Linux operating systems  
-
-__Terrestrial Drone Engineer__ 
->2008 
-
- - Utilized arduino’s servo  interface successfully without documentation with Java interface
-
 ##Other Experience
 
 __Mission Bit Technical Mentor__
 >2014
 
-Mentored interns at Hack Reactor teaching JavaScript, Firebase and Angular best practices
-
-__Physics and Materials Science Teaching Assistantship__
->2013  
-
-Cultivated understanding of physics through real-world examples using wolfram-alpha  
-__Center of Integrated Nano-mechanical Systems REU__ 
->2012
-
-Two-time recipient. UC Berkeley, and UC Merced. Developed and characterized carbon based nano-devices  
+Mentored interns at Hack Reactor teaching JavaScript, Firebase and jQuery best practices
+ 
 __Engineering Projects in Community Service__ 
 >2009  
 
 Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center  
-__Laser Research__ 
->2009  
-
-Collaborated with a colleague to create a prototype of an experimental fiberoptics-based pulse laser
 
 ##Education
-
-__Software Engineering__ Hacker in Residence Program
->Completed July 2014
-
-Hack Reactor's selective paid graduate program.
 
 __Software Engineering__ Hack Reactor
 >Completed April 2014 
 
-__M.S. Biological Engineering and Small-scale Technology__ University of California, Merced  
->Expected December 2014  
-
-GPA: 3.98. BEST Summer Fellowship. COMSOL Finite Elemental Analysis.  
+Hacker in Residence Program.
+  
 __B.S. Materials Science and Engineering__ University of California, Merced 
 >Completed December 2012  
 
-Java, C++, Statistics. Multiple academic award recipient.
+Relevant courses: Java, C++, Statistics. Multiple academic award recipient.
 
 ##Personal Interest
 
