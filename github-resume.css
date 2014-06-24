@@ -1,11 +1,11 @@
 body {
   font-family: Helvetica, arial, sans-serif;
-  font-size: 10px;
+  font-size: 11px;
   line-height: 1.6;
   padding-top: 5px;
   padding-bottom: 5px;
   background-color: white;
-  padding: 30px; 
+  padding: 5px; 
 }
 
 body > *:first-child {
@@ -283,8 +283,8 @@ pre {
 
 .contact_info {
   position: absolute;
-  right: 40px;
-  top: 40px;
+  right: 10px;
+  top: 10px;
 }
   .contact_info p {
     text-align: right;
