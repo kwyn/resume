@@ -16,6 +16,28 @@ __Experienced__ :   CoffeeScript, Python, Flask, scikit-learn, scikit-image, D3.
 __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 
 ##Relevant Experience
+
+### Technical Machine - Web Engineer
+> Present
+
+ - Built shop.technical.io from scratch using Hapi.js, jQuery, jade, and Object Oriented CSS with Sass.
+ - Automated deployment with heroku-like capabilities using Ansible and git.
+ - Used D3.js and Angular to construct data visualization and [geo-clustering](https://github.com/HarleyKwyn/Geo-Cluster) for market targeting.
+
+###Uber - Internal Tools Engineer
+>2014
+
+ - Built a user interface for support workers to seamlessly respond to requests
+ - Integrated support tools into the existing Python/Postgres API to efficiently gather data about individual support tickets.
+ - Got up to speed with 5 different code bases within the first month and committed code to further the support team's effectiveness.
+
+###Node.js - TCP/IP bridge server for Live Poker Gaming
+>2014
+
+ - Built Node.js server to bridge HTML5, and iPhone client to communicat via JSON to TCP/IP server
+ - Using socket.io for speed and reliability per client specification.
+ - Implimented end points for Facebook Oauth and various payment systems i.e. paypal, venmo, stripe.
+
 ###Full-Stack Software Engineer --- Visualizer Interpreter
 >2014
 
@@ -48,6 +70,7 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
  - Built complex 3D animations for enriched user experience, leveraging the Famo.us framework
  - Learned [Famo.us](https://famo.us) and ported the 2048 JavaScript engine to the framework in one week with limited documentation
 
+<<<<<<< HEAD
 ###University of California, Merced
 _Java & Computer Science Tutor_
 >2012 - 2013
@@ -55,6 +78,14 @@ _Java & Computer Science Tutor_
  - Brought clarity and understanding of Java and computer science to classes of 100+ undergraduate students
 
 _Nano-materials Modeling Engineer_
+=======
+__Java Computer Science Tutor__
+>2012 - 2013
+
+ - Brought clarity and understanding of Java and computer science to classes of 100+ undergraduate students.
+
+__Nano-materials Modeling Engineer__
+>>>>>>> Update work history
 >2010 - 2011
 
  - Designed and implemented algorithm to generate data for silica nano-springs from a bulk data text file using [AWK](http://en.wikipedia.org/wiki/AWK)
@@ -66,7 +97,30 @@ __Mission Bit Technical Mentor__
 
 Mentored interns from local high schools at Hack Reactor teaching JavaScript, Firebase and jQuery best practices
 
+__Student Computer Lab Technician__
+>2008 - 2011
+
+ - Managed and maintained 60 computers and trained users on basic operations in Windows, Mac or Linux operating systems
+
+__Terrestrial Drone Engineer__
+>2008
+
+ - Utilized arduino’s servo  interface successfully without documentation with Java interface.
+
+__Physics and Materials Science Teaching Assistantship__
+>2013
+
+Cultivated understanding of Physics through real world examples using wolfram-alpha
+__Center of Integrated Nano-mechanical Systems REU__
+>2012
+
+Two time recipient. UC Berkeley, and UC Merced. Developed and characterized carbon based nano-devices.
 __Engineering Projects in Community Service__
+>2009
+
+Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center
+__Laser Research__
+
 >2009
 
 Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center
@@ -78,6 +132,10 @@ __Software Engineering__ Hack Reactor
 
 Hacker in Residence Program.
 
+__M.S. Biological Engineering and Small-scale Technology__ University of California, Merced
+>Expected December 2014
+
+GPA: 3.98. BEST Summer Fellowship. COMSOL Finite Elemental Analysis.
 __B.S. Materials Science and Engineering__ University of California, Merced
 >Completed December 2012
 
@@ -86,5 +144,3 @@ Relevant courses: Java, C++, Statistics. Multiple academic award recipient.
 ##Personal Interest
 
   I have a high degree of self-awareness and enjoy hiking, meditation, Olympic lifting, nootropics, quantified self, clean eating, coffee, and grass-fed butter. I love disruptive technologies and businesses; I'm an early adopter of Coin and I have a Ripple wallet.
-
-
