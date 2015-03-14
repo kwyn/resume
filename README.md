@@ -1,28 +1,28 @@
-#Kwyn Alice Meagher 
+#Kwyn Alice Meagher
 ###_aka HarleyKwyn_
 <div class="contact_info" markdown="1">
 
-[harleykwyn.com](http://harleykwyn.com) | [github.com/harleykwyn](http://github.com/HarleyKwyn)  
-[linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn) | [kwyn.meagher@gmail.com](kwyn.meagher@gmail.com)  
+[harleykwyn.com](http://harleykwyn.com) | [github.com/harleykwyn](http://github.com/HarleyKwyn)
+[linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn) | [kwyn.meagher@gmail.com](kwyn.meagher@gmail.com)
 408.621.2997
 </div>
 
 ##Technical Skills
 
-__Expert__ :  JavaScript, CoffeeScript, Git, Angular.js, Express.js, Node.js, Socket.io ,CoreOS, Docker 
+__Expert__ :  JavaScript, Git, Angular.js, Hapi.js, Express.js, Node.js, CoreOS, Docker, jQuery, SASS, css, Gulp
 
-__Experienced__ :  Python, Flask, scikit-learn, scikit-image, D3.js, Famo.us, jQuery, Backbone.js, Markdown, Bash  
+__Experienced__ :   CoffeeScript, Python, Flask, scikit-learn, scikit-image, D3.js, Famo.us, Backbone.js, Markdown, Bash
 
-__Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk  
+__Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 
 ##Relevant Experience
 ###Full-Stack Software Engineer --- Visualizer Interpreter
 >2014
 
-  - Engineered visualizations for instantaneous scope and variable values based on an open source JavaScript interpreter  
-  - Designed an intuitive and user friendly interface through user testing to simplify a complex on-line debugging tool  
+  - Engineered visualizations for instantaneous scope and variable values based on an open source JavaScript interpreter
+  - Designed an intuitive and user friendly interface through user testing to simplify a complex on-line debugging tool
   - Integrated on-line text editor using Angular and Github API to load, submit, and edit code with gists to enhance user experience
-  - Re-factored prototype code to a modularized architecture in Angular to allow for continued development 
+  - Re-factored prototype code to a modularized architecture in Angular to allow for continued development
 
 ###Data Engineer, Machine Learning --- Galaxy Quest
 >2014
@@ -40,7 +40,7 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 ###Python API Engineer --- Semantic Similarity as a Service
 
  - Constructed RESTful API for making custom search engines based on Semantic Similarity as a tool for developers
- - Solved problems with persistence and lazy loading of searches for large databases using CoreOS and Docker 
+ - Solved problems with persistence and lazy loading of searches for large databases using CoreOS and Docker
 
 ###Front-End Software Engineer --- 20.48 (2048 Rebuilt in Famo.us)
 >2014
@@ -50,12 +50,12 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 
 ###University of California, Merced
 _Java & Computer Science Tutor_
->2012 - 2013  
+>2012 - 2013
 
- - Brought clarity and understanding of Java and computer science to classes of 100+ undergraduate students  
+ - Brought clarity and understanding of Java and computer science to classes of 100+ undergraduate students
 
-_Nano-materials Modeling Engineer_ 
->2010 - 2011  
+_Nano-materials Modeling Engineer_
+>2010 - 2011
 
  - Designed and implemented algorithm to generate data for silica nano-springs from a bulk data text file using [AWK](http://en.wikipedia.org/wiki/AWK)
 
@@ -65,21 +65,21 @@ __Mission Bit Technical Mentor__
 >2014
 
 Mentored interns from local high schools at Hack Reactor teaching JavaScript, Firebase and jQuery best practices
- 
-__Engineering Projects in Community Service__ 
->2009  
 
-Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center  
+__Engineering Projects in Community Service__
+>2009
+
+Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center
 
 ##Education
 
 __Software Engineering__ Hack Reactor
->Completed April 2014 
+>Completed April 2014
 
 Hacker in Residence Program.
-  
-__B.S. Materials Science and Engineering__ University of California, Merced 
->Completed December 2012  
+
+__B.S. Materials Science and Engineering__ University of California, Merced
+>Completed December 2012
 
 Relevant courses: Java, C++, Statistics. Multiple academic award recipient.
 
@@ -87,4 +87,4 @@ Relevant courses: Java, C++, Statistics. Multiple academic award recipient.
 
   I have a high degree of self-awareness and enjoy hiking, meditation, Olympic lifting, nootropics, quantified self, clean eating, coffee, and grass-fed butter. I love disruptive technologies and businesses; I'm an early adopter of Coin and I have a Ripple wallet.
 
-  
+
