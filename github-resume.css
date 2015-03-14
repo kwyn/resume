@@ -1,11 +1,11 @@
 body {
   font-family: Helvetica, arial, sans-serif;
-  font-size: 14px;
+  font-size: 11px;
   line-height: 1.6;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   background-color: white;
-  padding: 30px; 
+  padding: 5px; 
 }
 
 body > *:first-child {
@@ -58,16 +58,16 @@ h6 tt, h6 code {
   font-size: inherit; }
 
 h1 {
-  font-size: 28px;
+  font-size: 20px;
   color: black; }
 
 h2 {
-  font-size: 24px;
+  font-size: 14px;
   border-bottom: 1px solid #cccccc;
   color: black; }
 
 h3 {
-  font-size: 18px;
+  font-size: 12px;
   font-weight: bold;
   }
 
@@ -149,7 +149,7 @@ blockquote {
 
   position: relative;
   font-weight: bold;
-  bottom: 26px;
+  bottom: 20px;
 }
   blockquote p{
     position :absolute;
@@ -283,8 +283,8 @@ pre {
 
 .contact_info {
   position: absolute;
-  right: 40px;
-  top: 40px;
+  right: 10px;
+  top: 10px;
 }
   .contact_info p {
     text-align: right;

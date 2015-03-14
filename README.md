@@ -9,111 +9,82 @@
 
 ##Technical Skills
 
-__Expert__ :  JavaScript, CoffeeScript, Git, Angular.js, Express.js, Node.js, CoreOS, Docker  
+__Expert__ :  JavaScript, CoffeeScript, Git, Angular.js, Express.js, Node.js, Socket.io ,CoreOS, Docker 
 
 __Experienced__ :  Python, Flask, scikit-learn, scikit-image, D3.js, Famo.us, jQuery, Backbone.js, Markdown, Bash  
 
 __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk  
 
 ##Relevant Experience
-
-###Node.js - TCP/IP bridge server for Live Poker Gaming
+###Full-Stack Software Engineer --- Visualizer Interpreter
 >2014
 
- - Built Node.js server to bridge HTML5, and iPhone client to communicat via JSON to TCP/IP server
- - Using socket.io for speed and reliability per client specification. 
- - Implimented end points for Facebook Oauth and various payment systems i.e. paypal, venmo, stripe.
+  - Engineered visualizations for instantaneous scope and variable values based on an open source JavaScript interpreter  
+  - Designed an intuitive and user friendly interface through user testing to simplify a complex on-line debugging tool  
+  - Integrated on-line text editor using Angular and Github API to load, submit, and edit code with gists to enhance user experience
+  - Re-factored prototype code to a modularized architecture in Angular to allow for continued development 
 
-###[Semantic Similarity as a Service](https://github.com/HarleyKwyn/sklearn)
+###Data Engineer, Machine Learning --- Galaxy Quest
 >2014
 
- - Built in Python, Flask, Scikit-learn and Docker
- - Architected and constructed RESTful API for Semantic Similarity
- - Solved problems with persistance and lazy loading of searches for large corpuses.
+ - Designed machine learning work-flow in Python using scikit-learn and scikit-image and addressed memory usage issues
+ - Primary distributed computing engineer with Hadoop, Mahout and Python leveraging a super computer to find the optimal algorithm
+ - Achieved a final root mean squared error (RMSE) of 0.12310, coming in 120th place out of 329 teams
 
-###[20.48 (Rebuilt 2048 in Famo.us)](http://harleykwyn.com/20.48/)
+###Node.js Engineer --- Live Poker Gaming Server Contract
 >2014
 
- - Learned [Famo.us](https://famo.us) in one week with limited documentation
- - Ported the 2048 JavaScript engine into Famo.us in the same week
- - Built 3D visualizations for enhanced user experience
+ - Built Node.js server, to handle real time gaming communication via JSON based client to a TCP/IP based server
+ - Interpreted code developed by previous engineers to design and integrate new node.js bridge server using socket.io
 
-###Visualizer Interpreter
+###Python API Engineer --- Semantic Similarity as a Service
+
+ - Constructed RESTful API for making custom search engines based on Semantic Similarity as a tool for developers
+ - Solved problems with persistence and lazy loading of searches for large databases using CoreOS and Docker 
+
+###Front-End Software Engineer --- 20.48 (2048 Rebuilt in Famo.us)
 >2014
 
-  - Re-factored prototype code to a modularized architecture in Angular.
-  - Mastery of JavaScript required to build visualization of JavaScript interpreter internals.
-  - Lead for site design and interface.
+ - Built complex 3D animations for enriched user experience, leveraging the Famo.us framework
+ - Learned [Famo.us](https://famo.us) and ported the 2048 JavaScript engine to the framework in one week with limited documentation
 
-###[GalaxyZoo Kaggle Machine Learning Competition](http://galaxyquest.herokuapp.com/)
->2014
-
- - Primary distributed computing engineer with Hadoop, Mahout and Python
- - Designed machine learning workflow in Python using scikit-learn and scikit-image and addressed memory usage issues for large data sets.
- - Placed 65th out of 210 competitors as of 03.02.2014 beating out university teams.
-
-###[University of California, Merced](http://www.ucmerced.edu/)
-
-__Java Computer Science Tutor__ 
+###University of California, Merced
+_Java & Computer Science Tutor_
 >2012 - 2013  
 
- - Brought clarity and understanding of Java and computer science to classes of 100+ undergraduate students.  
+ - Brought clarity and understanding of Java and computer science to classes of 100+ undergraduate students  
 
-__Nano-materials Modeling Engineer__ 
+_Nano-materials Modeling Engineer_ 
 >2010 - 2011  
 
  - Designed and implemented algorithm to generate data for silica nano-springs from a bulk data text file using [AWK](http://en.wikipedia.org/wiki/AWK)
 
-__Student Computer Lab Technician__ 
->2008 - 2011  
-
- - Managed and maintained 60 computers and trained users on basic operations in Windows, Mac or Linux operating systems  
-
-__Terrestrial Drone Engineer__ 
->2008 
-
- - Utilized arduino’s servo  interface successfully without documentation with Java interface.
-
 ##Other Experience
 
-__Physics and Materials Science Teaching Assistantship__
->2013  
+__Mission Bit Technical Mentor__
+>2014
 
-Cultivated understanding of Physics through real world examples using wolfram-alpha  
-__Center of Integrated Nano-mechanical Systems REU__ 
->2012
-
-Two time recipient. UC Berkeley, and UC Merced. Developed and characterized carbon based nano-devices.  
+Mentored interns from local high schools at Hack Reactor teaching JavaScript, Firebase and jQuery best practices
+ 
 __Engineering Projects in Community Service__ 
 >2009  
 
 Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center  
-__Laser Research__ 
->2009  
-
-Collaborated with a colleague to created a prototype of an experimental fiber optics based pulse laser.
 
 ##Education
-
-__Software Engineering__ Hacker in Residence Program
->Completed July 2014
-
-Hack Reactor's selective paid graduate program
 
 __Software Engineering__ Hack Reactor
 >Completed April 2014 
 
-__M.S. Biological Engineering and Small-scale Technology__ University of California, Merced  
->Expected December 2014  
-
-GPA: 3.98. BEST Summer Fellowship. COMSOL Finite Elemental Analysis.  
+Hacker in Residence Program.
+  
 __B.S. Materials Science and Engineering__ University of California, Merced 
 >Completed December 2012  
 
-Java, C++, Statistics. Multiple academic award recipient.
+Relevant courses: Java, C++, Statistics. Multiple academic award recipient.
 
 ##Personal Interest
 
-  I have a high degree of self-awareness and enjoy hiking, mediation, Olympic lifting, nootropics, quantified self, clean eating, coffee, and grass-fed butter. I love disruptive technologies and businesses, I'm an early adopter of Coin and I have a Ripple wallet.
+  I have a high degree of self-awareness and enjoy hiking, meditation, Olympic lifting, nootropics, quantified self, clean eating, coffee, and grass-fed butter. I love disruptive technologies and businesses; I'm an early adopter of Coin and I have a Ripple wallet.
 
   
