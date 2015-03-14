@@ -70,22 +70,14 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
  - Built complex 3D animations for enriched user experience, leveraging the Famo.us framework
  - Learned [Famo.us](https://famo.us) and ported the 2048 JavaScript engine to the framework in one week with limited documentation
 
-<<<<<<< HEAD
 ###University of California, Merced
-_Java & Computer Science Tutor_
->2012 - 2013
 
- - Brought clarity and understanding of Java and computer science to classes of 100+ undergraduate students
-
-_Nano-materials Modeling Engineer_
-=======
 __Java Computer Science Tutor__
 >2012 - 2013
 
  - Brought clarity and understanding of Java and computer science to classes of 100+ undergraduate students.
 
 __Nano-materials Modeling Engineer__
->>>>>>> Update work history
 >2010 - 2011
 
  - Designed and implemented algorithm to generate data for silica nano-springs from a bulk data text file using [AWK](http://en.wikipedia.org/wiki/AWK)
@@ -131,9 +123,6 @@ __Software Engineering__ Hack Reactor
 >Completed April 2014
 
 Hacker in Residence Program.
-
-__M.S. Biological Engineering and Small-scale Technology__ University of California, Merced
->Expected December 2014
 
 GPA: 3.98. BEST Summer Fellowship. COMSOL Finite Elemental Analysis.
 __B.S. Materials Science and Engineering__ University of California, Merced
