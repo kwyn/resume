@@ -36,7 +36,6 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 
  - Built Node.js server, to handle real time gaming communication via JSON based client to a TCP/IP based server
  - Interpreted code developed by previous engineers to design and integrate new node.js bridge server using socket.io
- - Implemented end points for Facebook OAuth and various payment systems i.e. PayPal, Venmo, Stripe
 
 ###Python API Engineer --- Semantic Similarity as a Service
 
