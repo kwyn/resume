@@ -122,7 +122,8 @@ Constructed a working space elevator model, with a team of 17 engineers, for Cas
 __Software Engineering__ Hack Reactor
 >Completed April 2014
 
-Hacker in Residence Program.
+__Hacker in Residence Program.__ Hack Reactor
+>Completed July 2014
 
 GPA: 3.98. BEST Summer Fellowship. COMSOL Finite Elemental Analysis.
 __B.S. Materials Science and Engineering__ University of California, Merced
