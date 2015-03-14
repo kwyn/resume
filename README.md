@@ -27,14 +27,14 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 ###Uber - Internal Tools Engineer
 >2014
 
- - Built a user interface for support workers to seamlessly respond to requests
  - Integrated support tools into the existing Python/Postgres API to efficiently gather data about individual support tickets.
+ - Built a user interface for support workers to seamlessly respond to requests.
  - Got up to speed with 5 different code bases within the first month and committed code to further the support team's effectiveness.
 
 ###Node.js - TCP/IP bridge server for Live Poker Gaming
 >2014
 
- - Built Node.js server to bridge HTML5, and iPhone client to communicat via JSON to TCP/IP server
+ - Built Node.js server to bridge HTML5, and iPhone client to communicate via JSON to TCP/IP server
  - Using socket.io for speed and reliability per client specification.
  - Implimented end points for Facebook Oauth and various payment systems i.e. paypal, venmo, stripe.
 
@@ -97,7 +97,7 @@ __Student Computer Lab Technician__
 __Terrestrial Drone Engineer__
 >2008
 
- - Utilized arduino’s servo  interface successfully without documentation with Java interface.
+ - Utilized Arduino’s servo interface successfully without documentation with Java interface.
 
 __Physics and Materials Science Teaching Assistantship__
 >2013
