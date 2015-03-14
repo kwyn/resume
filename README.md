@@ -125,7 +125,6 @@ __Software Engineering__ Hack Reactor
 __Hacker in Residence Program.__ Hack Reactor
 >Completed July 2014
 
-GPA: 3.98. BEST Summer Fellowship. COMSOL Finite Elemental Analysis.
 __B.S. Materials Science and Engineering__ University of California, Merced
 >Completed December 2012
 
