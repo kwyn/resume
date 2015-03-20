@@ -96,11 +96,6 @@ __Student Computer Lab Technician__
 
  - Managed and maintained 60 computers and trained users on basic operations in Windows, Mac or Linux operating systems
 
-__Terrestrial Drone Engineer__
->2008
-
- - Utilized Arduino’s servo interface successfully without documentation with Java interface.
-
 __Physics and Materials Science Teaching Assistantship__
 >2013
 
@@ -112,11 +107,6 @@ __Center of Integrated Nano-mechanical Systems REU__
  - Two time recipient. UC Berkeley, and UC Merced. Developed and characterized carbon based nano-devices.
 
 __Engineering Projects in Community Service__
->2009
-
- - Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center
-
-__Laser Research__
 >2009
 
  - Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center
