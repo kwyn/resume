@@ -89,7 +89,7 @@ __Nano-materials Modeling Engineer__
 __Mission Bit Technical Mentor__
 >2014
 
-Mentored interns from local high schools at Hack Reactor teaching JavaScript, Firebase and jQuery best practices
+ - Mentored interns from local high schools at Hack Reactor teaching JavaScript, Firebase and jQuery best practices
 
 __Student Computer Lab Technician__
 >2008 - 2011
@@ -104,20 +104,22 @@ __Terrestrial Drone Engineer__
 __Physics and Materials Science Teaching Assistantship__
 >2013
 
-Cultivated understanding of Physics through real world examples using wolfram-alpha
+ - Cultivated understanding of Physics through real world examples using wolfram-alpha
+
 __Center of Integrated Nano-mechanical Systems REU__
 >2012
 
-Two time recipient. UC Berkeley, and UC Merced. Developed and characterized carbon based nano-devices.
+ - Two time recipient. UC Berkeley, and UC Merced. Developed and characterized carbon based nano-devices.
+
 __Engineering Projects in Community Service__
 >2009
 
-Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center
-__Laser Research__
+ - Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center
 
+__Laser Research__
 >2009
 
-Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center
+ - Constructed a working space elevator model, with a team of 17 engineers, for Castle Science and Technology Center
 
 ##Education
 
