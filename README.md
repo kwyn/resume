@@ -22,7 +22,7 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 ### Technical Machine - Web Engineer
 > Present
 
- - Built shop.technical.io from scratch using Hapi.js, jQuery, jade, and Object Oriented CSS with Sass.
+ - Built a storefront from scratch using Hapi.js, jQuery, jade, and Object Oriented CSS with Sass.
  - Automated deployment with heroku-like capabilities using Ansible and git.
  - Used D3.js and Angular to construct data visualization and [geo-clustering](https://github.com/HarleyKwyn/Geo-Cluster) for market targeting.
 
