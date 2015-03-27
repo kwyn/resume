@@ -24,6 +24,8 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 
  - Built a storefront from scratch using Hapi.js, jQuery, jade, and Object Oriented CSS with Sass.
  - Automated deployment with heroku-like capabilities using Ansible and git.
+ - Improved API and documentation for individually addressable RGB LEDs on Tessel.
+ - Collaborated on designing and implementing new CLI for Tessel 2 creating a better user experience.
  - Used D3.js and Angular to construct data visualization and [geo-clustering](https://github.com/HarleyKwyn/Geo-Cluster) for market targeting.
 
 ###Uber - Internal Tools Engineer
@@ -32,6 +34,12 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
  - Integrated support tools into the existing Python/Postgres API to efficiently gather data.
  - Built a user interface for support workers to seamlessly respond to requests.
  - Ramped up to the point of effectiveness on 5 different codebases within the first month.
+
+###Contract - TCP/IP bridge server for Live Poker Gaming
+
+ - Built Node.js server to bridge HTML5, and iPhone client to communicate via JSON to TCP/IP server
+ - Using socket.io for speed and reliability per client specification.
+ - Implemented end points for Facebook Oauth and various payment systems i.e. paypal, venmo, stripe.
 
 ###University of California, Merced
 
@@ -45,12 +53,7 @@ __Nano-materials Modeling Engineer__
 
  - Designed and implemented algorithm to generate data for silica nano-springs from a bulk data text file using [AWK](http://en.wikipedia.org/wiki/AWK)
 
-##Open-Source Projects
-###Node.js - TCP/IP bridge server for Live Poker Gaming
-
- - Built Node.js server to bridge HTML5, and iPhone client to communicate via JSON to TCP/IP server
- - Using socket.io for speed and reliability per client specification.
- - Implimented end points for Facebook Oauth and various payment systems i.e. paypal, venmo, stripe.
+##Projects
 
 ###Full-Stack Software Engineer --- Visualizer Interpreter
 
@@ -64,11 +67,6 @@ __Nano-materials Modeling Engineer__
  - Designed machine learning work-flow in Python using scikit-learn and scikit-image and addressed memory usage issues
  - Primary distributed computing engineer with Hadoop, Mahout and Python leveraging a super computer to find the optimal algorithm
  - Achieved a final root mean squared error (RMSE) of 0.12310, coming in 120th place out of 329 teams
-
-###Node.js Engineer --- Live Poker Gaming Server Contract
-
- - Built Node.js server, to handle real time gaming communication via JSON based client to a TCP/IP based server
- - Interpreted code developed by previous engineers to design and integrate new node.js bridge server using socket.io
 
 ###Python API Engineer --- Semantic Similarity as a Service
 
