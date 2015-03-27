@@ -20,7 +20,7 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 ##Relevant Experience
 
 ### Technical Machine - Web Engineer
-> Present
+> 2014-Present
 
  - Built a storefront from scratch using Hapi.js, jQuery, jade, and Object Oriented CSS with Sass.
  - Automated deployment with heroku-like capabilities using Ansible and git.
@@ -29,48 +29,9 @@ __Basic__ :  Hadoop, Mahout, Java, C++, Labview, MATLAB, awk
 ###Uber - Internal Tools Engineer
 >2014
 
- - Integrated support tools into the existing Python/Postgres API to efficiently gather data about individual support tickets.
+ - Integrated support tools into the existing Python/Postgres API to efficiently gather data.
  - Built a user interface for support workers to seamlessly respond to requests.
- - Got up to speed with 5 different code bases within the first month and committed code to further the support team's effectiveness.
-
-###Node.js - TCP/IP bridge server for Live Poker Gaming
->2014
-
- - Built Node.js server to bridge HTML5, and iPhone client to communicate via JSON to TCP/IP server
- - Using socket.io for speed and reliability per client specification.
- - Implimented end points for Facebook Oauth and various payment systems i.e. paypal, venmo, stripe.
-
-###Full-Stack Software Engineer --- Visualizer Interpreter
->2014
-
-  - Engineered visualizations for instantaneous scope and variable values based on an open source JavaScript interpreter
-  - Designed an intuitive and user friendly interface through user testing to simplify a complex on-line debugging tool
-  - Integrated on-line text editor using Angular and Github API to load, submit, and edit code with gists to enhance user experience
-  - Re-factored prototype code to a modularized architecture in Angular to allow for continued development
-
-###Data Engineer, Machine Learning --- Galaxy Quest
->2014
-
- - Designed machine learning work-flow in Python using scikit-learn and scikit-image and addressed memory usage issues
- - Primary distributed computing engineer with Hadoop, Mahout and Python leveraging a super computer to find the optimal algorithm
- - Achieved a final root mean squared error (RMSE) of 0.12310, coming in 120th place out of 329 teams
-
-###Node.js Engineer --- Live Poker Gaming Server Contract
->2014
-
- - Built Node.js server, to handle real time gaming communication via JSON based client to a TCP/IP based server
- - Interpreted code developed by previous engineers to design and integrate new node.js bridge server using socket.io
-
-###Python API Engineer --- Semantic Similarity as a Service
-
- - Constructed RESTful API for making custom search engines based on Semantic Similarity as a tool for developers
- - Solved problems with persistence and lazy loading of searches for large databases using CoreOS and Docker
-
-###Front-End Software Engineer --- 20.48 (2048 Rebuilt in Famo.us)
->2014
-
- - Built complex 3D animations for enriched user experience, leveraging the Famo.us framework
- - Learned [Famo.us](https://famo.us) and ported the 2048 JavaScript engine to the framework in one week with limited documentation
+ - Ramped up to the point of effectiveness on 5 different codebases within the first month.
 
 ###University of California, Merced
 
@@ -83,6 +44,41 @@ __Nano-materials Modeling Engineer__
 >2010 - 2011
 
  - Designed and implemented algorithm to generate data for silica nano-springs from a bulk data text file using [AWK](http://en.wikipedia.org/wiki/AWK)
+
+##Open-Source Projects
+###Node.js - TCP/IP bridge server for Live Poker Gaming
+
+ - Built Node.js server to bridge HTML5, and iPhone client to communicate via JSON to TCP/IP server
+ - Using socket.io for speed and reliability per client specification.
+ - Implimented end points for Facebook Oauth and various payment systems i.e. paypal, venmo, stripe.
+
+###Full-Stack Software Engineer --- Visualizer Interpreter
+
+  - Engineered visualizations for instantaneous scope and variable values based on an open source JavaScript interpreter
+  - Designed an intuitive and user friendly interface through user testing to simplify a complex on-line debugging tool
+  - Integrated on-line text editor using Angular and Github API to load, submit, and edit code with gists to enhance user experience
+  - Re-factored prototype code to a modularized architecture in Angular to allow for continued development
+
+###Data Engineer, Machine Learning --- Galaxy Quest
+
+ - Designed machine learning work-flow in Python using scikit-learn and scikit-image and addressed memory usage issues
+ - Primary distributed computing engineer with Hadoop, Mahout and Python leveraging a super computer to find the optimal algorithm
+ - Achieved a final root mean squared error (RMSE) of 0.12310, coming in 120th place out of 329 teams
+
+###Node.js Engineer --- Live Poker Gaming Server Contract
+
+ - Built Node.js server, to handle real time gaming communication via JSON based client to a TCP/IP based server
+ - Interpreted code developed by previous engineers to design and integrate new node.js bridge server using socket.io
+
+###Python API Engineer --- Semantic Similarity as a Service
+
+ - Constructed RESTful API for making custom search engines based on Semantic Similarity as a tool for developers
+ - Solved problems with persistence and lazy loading of searches for large databases using CoreOS and Docker
+
+###Front-End Software Engineer --- 20.48 (2048 Rebuilt in Famo.us)
+
+ - Built complex 3D animations for enriched user experience, leveraging the Famo.us framework
+ - Learned [Famo.us](https://famo.us) and ported the 2048 JavaScript engine to the framework in one week with limited documentation
 
 ##Other Experience
 
