@@ -7,10 +7,14 @@
 </div>
 
 ## Relevant Experience
+### Nava PBC - Software Engineer
+> 2017-2018
+ - Built back-end API integrations and designed the core functionality of the front-end user interactions for Healthcare.gov
+ - Managed complex client and stakeholder relationships around integrations and delivery times.
+ - Containerized the Scalable Login System to provide a better workflow for developers.
 
 ### Neustar Inc - Software Engineer
-> 2015-Present
-
+> 2015-2017
  - Drove development of integration features between multiple teams and services within Neustar.
  - Fixed flaky continuous integration cycles by addressing a bug in the common code used in testing, unblocking other engineers and increasing productivity across the team.
  - Lead UI framework migration from Angular 1.x to React and Redux on the main customer facing UI code base.
