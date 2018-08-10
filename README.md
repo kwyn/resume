@@ -1,7 +1,7 @@
 # Kwyn Alice Meagher
 ### _aka HarleyKwyn_
 <div class="contact_info" markdown="1">
-[blog.kwyn.io](http://harleykwyn.com) | [github.com/harleykwyn](http://github.com/HarleyKwyn)  
+[blog.kwyn.io](http://harleykwyn.com) | [github.com/kwyn](http://github.com/kwyn)  
 [linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn) | [self@kwyn.io](self@kwyn.io)  
 408.621.2997
 </div>
