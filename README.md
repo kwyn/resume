@@ -1,12 +1,18 @@
 # Kwyn Alice Meagher
 ### _aka HarleyKwyn_
 <div class="contact_info" markdown="1">
-[blog.kwyn.io](http://harleykwyn.com) | [github.com/kwyn](http://github.com/kwyn)  
-[linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn) | [self@kwyn.io](self@kwyn.io)  
-408.621.2997
+[kwyn.io](https://kwyn.com) | [github.com/kwyn](http://github.com/kwyn)  
+[linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn) 
 </div>
 
 ## Relevant Experience
+### Mailchimp - Senior Software Engineer
+> 2018-2020
+ - Designed the CLI used for managing GCP resource for the Service Platform
+ - Vetted serverless technologies on GCP including GKE and Knative
+ - Directed the company towards using serverless options over k8s where it makes sense
+ - Taught other engineers about kubernetes, docker and serverless technology 
+
 ### Nava PBC - Software Engineer
 > 2017-2018
 
