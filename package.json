@@ -1,0 +1,25 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "<div class=\"contact_info\" markdown=\"1\"> [blog.kwyn.io](http://harleykwyn.com) | [github.com/harleykwyn](http://github.com/HarleyKwyn)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarleyKwyn/resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarleyKwyn/resume/issues"
+  },
+  "homepage": "https://github.com/HarleyKwyn/resume#readme",
+  "dependencies": {
+    "cheerio": "0.22.0",
+    "handlebars": "^4.7.3",
+    "marked": "^0.8.0"
+  }
+}

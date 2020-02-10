@@ -1,5 +1,4 @@
 # Kwyn Alice Meagher
-### _aka HarleyKwyn_
 <div class="contact_info" markdown="1">
 [kwyn.io](https://kwyn.com) | [github.com/kwyn](http://github.com/kwyn)  
 [linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn) 
