@@ -5,6 +5,18 @@
 </div>
 
 ## Relevant Experience
+### Apple - Software Engineering Manager
+> 2022-Present
+  - Lead a team of 7 engineers in building out an intenral platform for six internal services with more to come in future years. 
+  - Promoted a senior engineer to staff level
+  - Built out a first of it's kind internal platform UI engineering team
+
+### Apple - Senior Software Engineer
+> 2021-2022
+  - Implement observability for internal cli for all of Apple to access their kubernetes clusters
+  - Revamped cli to support mtls signing from arbitrary certificates for compliance
+  - Designed tool for scanning kubernetes assets and checking for errors catching and correcting thousands of erros across Apples system
+
 ### Mailchimp - Senior Software Engineer
 > 2018-2020
  - Designed the CLI used for managing GCP resource for the Service Platform
