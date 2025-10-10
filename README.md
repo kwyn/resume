@@ -1,13 +1,19 @@
 # Kwyn Alice Meagher
 <div class="contact_info" markdown="1">
-[kwyn.io](https://kwyn.com) | [github.com/kwyn](http://github.com/kwyn)  
-[linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn) 
+[kwyn.io](https://kwyn.com) | [github.com/kwyn](http://github.com/kwyn)
+[linkedin.com/in/harleykwyn](http://linkedin.com/in/harleykwyn)
 </div>
 
 ## Relevant Experience
+### Apple - Senior Software Engineer
+> 2024-Present
+  - Architected critical capacity management backend services in Golang, addressing complex multi-tenant quota requirements across Apple's cloud ecosystem
+  - Adapted legacy quota management systems with strategic integration and migration approach, unifying disparate quota models into cohesive service architecture
+  - Designed bespoke capacity solution aligned with Apple's unique scale and business requirements, balancing technical constraints with organizational needs
+
 ### Apple - Software Engineering Manager
-> 2022-Present
-  - Lead a team of 7 engineers in building out an intenral platform for six internal services with more to come in future years. 
+> 2022-2024
+  - Lead a team of 7 engineers in building out an intenral platform for six internal services with more to come in future years.
   - Promoted a senior engineer to staff level
   - Built out a first of it's kind internal platform UI engineering team
 
@@ -22,7 +28,7 @@
  - Designed the CLI used for managing GCP resource for the Service Platform
  - Vetted serverless technologies on GCP including GKE and Knative
  - Directed the company towards using serverless options over k8s where it makes sense
- - Taught other engineers about kubernetes, docker and serverless technology 
+ - Taught other engineers about kubernetes, docker and serverless technology
 
 ### Nava PBC - Software Engineer
 > 2017-2018
@@ -48,7 +54,7 @@
  - Collaborated on designing and implementing new CLI for Tessel 2 creating a better user experience.
  - Used D3.js and Angular to construct data visualization and [geo-clustering](https://github.com/HarleyKwyn/Geo-Cluster) for market targeting.
 
-### Uber - Internal Tools Engineer  
+### Uber - Internal Tools Engineer
 >2014
 
  - Integrated support tools into the existing Python/Postgres API to efficiently gather data.
