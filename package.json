@@ -20,6 +20,6 @@
   "dependencies": {
     "cheerio": "0.22.0",
     "handlebars": "^4.7.3",
-    "marked": "^0.8.0"
+    "marked": "^4.0.10"
   }
 }
